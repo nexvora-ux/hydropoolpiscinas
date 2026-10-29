@@ -1,0 +1,24 @@
+{
+  "name": "HydroPool | Especialistas en piscinas",
+  "short_name": "HydroPool",
+  "description": "Diseño, construcción, equipamiento y mantenimiento de piscinas.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#053a84",
+  "icons": [
+    {
+      "src": "./assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
